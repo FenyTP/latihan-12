@@ -1,2 +1,2 @@
-# latihan-12
+# latihan
 Latihan1
